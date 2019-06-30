@@ -1,0 +1,14 @@
+[
+    {
+    "title" : "POST ONE",
+    "body"  : "THIS IS POST ONE"
+    },
+    {
+    "title" : "POST TWO",
+    "body"  : "THIS IS POST TWO"
+    },
+    {
+    "title" : "POST THREE",
+    "body"  : "THIS IS POST THREE"
+    }
+]
